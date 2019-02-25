@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2AD0FE</color>
+    <color name="colorPrimaryDark">#33AAFE</color>
+    <color name="colorAccent">#2BA2FA</color>
+    <color name="colorBackground">#F4FAFE</color>
+    <color name="colorNotSelected">#B2BEC8</color>
+    <color name="colorSelected">@color/colorPrimary</color>
+    <color name="colorText">#263238</color>
+    <color name="colorGrey">#e0e0e0</color>
+    <color name="colorYellow">#ff8f00</color>
+    <color name="colorLogoutRed">#EE0004</color>
+    <color name="colorDeepRed">#A6140E</color>
+    <color name="colorLightRed">#EE0004</color>
+    <color name="google_blue">#4285F4</color>
+</resources>
